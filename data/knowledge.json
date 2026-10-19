@@ -1,0 +1,82 @@
+[
+  {
+    "id": "subscription_management",
+    "title": "Understanding your demo subscription",
+    "content": "Synthetic demo guidance: your subscription has a plan, status, purchase channel, and renewal or end date. Sign in with a demo identity to ask for your subscription status. Public answers cannot reveal account-specific details. This portfolio app does not sell or modify subscriptions.",
+    "keywords": ["subscription", "subscriptions", "membership", "plan", "manage subscription", "renewal"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "cancel_web",
+    "title": "Cancellation for a website purchase",
+    "content": "Synthetic demo procedure for a website purchase: open the service website's account settings, find Subscription, and follow the cancellation steps there. Keep the confirmation and check the displayed access-end date. If the option is missing or the process fails, ask human support to review it. This demo provides instructions only; it does not cancel anything or promise a refund.",
+    "keywords": ["cancel", "cancellation", "website", "web", "unsubscribe", "stop paying"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "cancel_app_store",
+    "title": "Cancellation for an App Store purchase",
+    "content": "Synthetic demo procedure for an App Store purchase: use the subscription-management area for the Apple account used to purchase the subscription, locate the subscription, and follow the store's cancellation instructions. If it is not listed, check the purchasing account and receipt or ask human support for help. This demo does not connect to Apple or cancel a purchase.",
+    "keywords": ["cancel", "cancellation", "app store", "apple", "iphone", "ios", "unsubscribe"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "cancel_google_play",
+    "title": "Cancellation for a Google Play purchase",
+    "content": "Synthetic demo procedure for a Google Play purchase: use the subscription-management area for the Google account used to purchase the subscription, locate the subscription, and follow the store's cancellation instructions. If it is not listed, check the purchasing account and receipt or ask human support for help. This demo does not connect to Google Play or cancel a purchase.",
+    "keywords": ["cancel", "cancellation", "google play", "android", "unsubscribe"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "billing_questions",
+    "title": "Billing questions and transaction history",
+    "content": "Synthetic demo guidance: sign in to view your own mock transaction history, including amount, currency, date, and payment status. A store receipt may help identify the purchase channel. Report unexpected, duplicate, or unrecognized charges for human review. Do not send full card numbers, passwords, or payment credentials in chat.",
+    "keywords": ["billing", "billed", "charge", "charged", "payment", "receipt", "transaction", "invoice"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "account_access",
+    "title": "Account access and sign-in help",
+    "content": "Synthetic demo guidance: check that you are using the same sign-in method and account used for the purchase. A real service may offer an official password-reset flow; never share a password or verification code with support. In this portfolio demo, choose a demo identity and explicitly sign in. Escalate persistent access problems to human support.",
+    "keywords": ["account access", "login", "log in", "sign in", "password", "reset password", "verification", "access"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "privacy",
+    "title": "Privacy and sensitive information",
+    "content": "Synthetic demo policy: only the signed-in demo customer's subscription, transactions, and tickets may be shown. The optional model receives redacted message text and public articles, never retrieved customer records. Redaction is best effort, so use synthetic information only. A request for data deletion or other privacy action needs human review; this demo does not perform that action.",
+    "keywords": ["privacy", "personal data", "delete data", "data deletion", "sensitive", "protect", "collect", "information"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "refund_process",
+    "title": "Refund requests and disputed charges",
+    "content": "Synthetic demo procedure: sign in and describe the charge you want reviewed. A support ticket can link a transaction only after the backend verifies that it belongs to your authenticated account. Human support reviews refund requests and suspicious charges. Creating a ticket does not approve a refund, guarantee eligibility, or move money. The demo never executes financial operations.",
+    "keywords": ["refund", "refunds", "money back", "dispute", "suspicious", "unauthorized", "unrecognized", "duplicate charge", "chargeback"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "troubleshooting",
+    "title": "Basic technical troubleshooting",
+    "content": "Synthetic demo guidance: check your internet connection, restart the app or browser, and check for available updates. Record the visible error, approximate time, app version, and device type without sending credentials. If the problem continues, ask human support to investigate. Support should not ask you to send a full payment-card number or password.",
+    "keywords": ["technical", "troubleshooting", "crash", "crashes", "crashing", "frozen", "freezes", "error", "bug", "not working", "won't load", "loading", "stuck"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  },
+  {
+    "id": "about_demo",
+    "title": "About this independent portfolio demo",
+    "content": "This is an independent educational portfolio project using invented customers and synthetic support policies. It is not an official Nebula or OBRIO product and has no access to their internal systems. Article review dates describe review of these synthetic demo documents, not verification of any real company's policies.",
+    "keywords": ["about demo", "about service", "portfolio", "nebula", "obrio", "affiliation", "official"],
+    "source": "Synthetic demo policy",
+    "verified_on": "2026-10-18"
+  }
+]

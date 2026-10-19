@@ -1,0 +1,4 @@
+{'transactions': [{'id': 'tx_alex_001', 'amount_cents': 1299, 'currency': 'USD', 'status': 'paid', 'created_at': '2026-09-18T19:44:59.654964+00:00'}, {'id': 'tx_alex_002', 'amount_cents': 1299, 'currency': 'USD', 'status': 'paid', 'created_at': '2026-08-19T19:44:59.654987+00:00'}]}
+{'intent': 'REFUND_REQUEST', 'case_status': 'escalated', 'delivery_status': 'generated'}
+tkt_002b6a23223d45118b89508e755fd834
+delivered
